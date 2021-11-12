@@ -21,7 +21,7 @@ I'm a software developer from Nigeria.
 
 I currently live in Umudike, Abia State.
 
-I have been building Django applications, experimenting with [**FastAPI**](https://fastapi.tiangolo.com/)
+I have been building Django applications, also experimenting with [**FastAPI**](https://fastapi.tiangolo.com/)
 
 
 ........................................
