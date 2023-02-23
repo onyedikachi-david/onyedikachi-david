@@ -36,4 +36,5 @@ You can find me on:
 * [Medium](https://tiangolo.medium.com/) -->
 
 
-![Metrics](https://metrics.lecoq.io/onyedikachi-david?template=terminal&base.hireable=true&habits=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&config.timezone=Africa%2FLagos)
+<!-- ![Metrics](https://metrics.lecoq.io/onyedikachi-david?template=terminal&base.hireable=true&habits=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&config.timezone=Africa%2FLagos)
+ -->
