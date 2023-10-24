@@ -1,28 +1,46 @@
-<!-- ### Hi there 👋 -->
+## Hi, I'm David Onyedikachi Anyatonwu 👋
 
-<!--
-**onyedikachi-david/onyedikachi-david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
+I am a NodeJs-Golang Backend Developer, with experience in Python, Rust, and Solidity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for full-time Remote Jobs.
 
-### Hey! I'm [@David_Anyatonwu](https://twitter.com/David_Anyatonwu) (David Anyatonwu) 👋
+I am an open-source enthusiast and developed/contributed to:
+- `zbd-node`: A payment plateform for modern developers. [zbd-node](https://github.com/zebedeeio/zbd-node/pull/7)
+- `zbd-go`: A payment platform for modern developers. [zbd-go](https://github.com/zebedeeio/zbd-go/pull/3)
 
-I'm a software developer from Nigeria.
 
-I currently live in Umudike, Abia State.
+### Skills
 
-I have been building Django applications, also experimenting with [**FastAPI**](https://fastapi.tiangolo.com/)
+* **Mobile**: ReactNative
+    
+* **Backend**: Golang, NodeJS, Python
+    
+* **Cloud**: Linux, NGINX, Docker
+    
+* **Databases**: MongoDB, Postgres
+    
+* **Platforms**: Cloudflare, GitHub Actions
+    
+* **Tools**: Git, Lens, Postman
+  
+* **Blockchain**: Solana, EVM chains, Algorand.
+    
 
+### Projects
+
+| Project | Description | Tech Stack | Source Code |
+| :---: | :---: | :---: | :---: |
+| AjoDAO | A decentralized Thrift Platform | Nextjs, Anchorlang | [Repo](https://github.com/Web3-Builders-Alliance/ajodao/tree/main) |
+| ChainHop | A decentralised application that allows anyone to search for transactions on any Blockchain | NodeReal, NextJs | [Repo](https://github.com/onyedikachi-david/ChainHop) |
+| OASIS | A decentralized application (DApp) for secure and transparent transactions on the Solana blockchain. | NextJs, AnchorLang | [Repo](https://github.com/onyedikachi-david/oasis) |
+| Yellow Finance | DAO-based thrift decentralized application (DApp) | Solidity, NextJs | [Repo](https://github.com/onyedikachi-david/Yellow-Finance), [Demo](https://yellow-finance.vercel.app/) |
+| Algo-mint Lottery | Lossless lottery | Reach-lang, React | [Repo](https://github.com/onyedikachi-david/algo-mint-lottery) |
+| Kobo | A decentralized peer to peer borrowing and lending community platform | Reach-lang, React | [Frontend](http://kobo-phi.vercel.app/), [Repo](https://github.com/onyedikachi-david/kobo)|
+| MOUAU-HMS | Hostel Management System for MOUAU | Python, Javascript, Postgres | [Repo](https://github.com/onyedikachi-david/mouau-hms)|
+| Sponsor Me | A web3 sponsorship platform | Reach-lang, React | [Repo](https://github.com/onyedikachi-david/SponsorMe-1) |
+| Heavenya Bot | An evenbrite Webscraping Automation Bot| Python, AWS Linux | [Repo](https://github.com/heavenya/email_bot) |
 
 ........................................
 
