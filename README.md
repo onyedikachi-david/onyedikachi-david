@@ -32,6 +32,9 @@ I am an open-source enthusiast and developed/contributed to:
 
 | Project | Description | Tech Stack | Source Code |
 | :---: | :---: | :---: | :---: |
+| hassleFreePr | A GitHub application built to optimize issue and pull request workflows using AI. | TypeScript | [Repo](https://github.com/onyedikachi-david/hassleFreePr) |
+| Create-ink!-dapp | A development tool for creating ink! smart contracts and decentralized applications (dApps) on the Polkadot network. | Rust | [Repo](https://github.com/onyedikachi-david/create-ink-app) |
+| DHunt | A decentralized application built on Ethereum that allows developers to earn rewards by solving bounties. | Solidity, React | [Repo](https://github.com/onyedikachi-david/DHunt) |
 | AjoDAO | A decentralized Thrift Platform | Nextjs, Anchorlang | [Repo](https://github.com/Web3-Builders-Alliance/ajodao/tree/main) |
 | ChainHop | A decentralised application that allows anyone to search for transactions on any Blockchain | NodeReal, NextJs | [Repo](https://github.com/onyedikachi-david/ChainHop) |
 | OASIS | A decentralized application (DApp) for secure and transparent transactions on the Solana blockchain. | NextJs, AnchorLang | [Repo](https://github.com/onyedikachi-david/oasis) |
