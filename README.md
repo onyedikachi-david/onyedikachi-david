@@ -13,10 +13,12 @@ I'm looking for full-time Remote Jobs.
 
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
+
 I am an open-source enthusiast and developed/contributed to:
 - `zbd-node`: A payment plateform for modern developers. [zbd-node](https://github.com/zebedeeio/zbd-node/pull/7)
 - `zbd-go`: A payment platform for modern developers. [zbd-go](https://github.com/zebedeeio/zbd-go/pull/3)
-<!--RECENT_ACTIVITY:end-->
 ---
 
 ### Skills
