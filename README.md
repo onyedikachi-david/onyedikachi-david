@@ -6,10 +6,15 @@ I am a NodeJs-Golang Backend Developer, with experience in Python, Rust, and Sol
 
 I'm looking for full-time Remote Jobs.
 
+---
+
+## :zap: Recent Activity:
+
 I am an open-source enthusiast and developed/contributed to:
 - `zbd-node`: A payment plateform for modern developers. [zbd-node](https://github.com/zebedeeio/zbd-node/pull/7)
 - `zbd-go`: A payment platform for modern developers. [zbd-go](https://github.com/zebedeeio/zbd-go/pull/3)
 
+---
 
 ### Skills
 

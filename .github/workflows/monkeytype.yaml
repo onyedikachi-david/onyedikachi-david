@@ -1,0 +1,34 @@
+# name: Generate Monkeytype SVG
+
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: "0 */6 * * *" # every 6 hours
+
+# jobs:
+#   download-svg:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout code
+#         uses: actions/checkout@v3
+
+#       - name: Set up Node.js
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: "16.x"
+
+#       - name: Download SVG
+#         run: |
+#           mkdir public
+#           curl -o public/monkeytype.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/dark_note
+#           curl -o public/monkeytype-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/dark_note?lb=true
+#           curl -o public/monkeytype-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/dark_note?pb=true
+#           curl -o public/monkeytype-lbpb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/dark_note?lbpb=true
+
+#       - name: push monkeytype.svg to the monkeytype branch
+#         uses: crazy-max/ghaction-github-pages@v2.5.0
+#         with:
+#           target_branch: monkeytype
+#           build_dir: public
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
