@@ -20,6 +20,8 @@ Last Updated: Tuesday, June 25th, 2024, 9:12:24 PM
 5. ⭐ Starred [VictorTaelin/AI-scripts](https://github.com/VictorTaelin/AI-scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 
+---
+
 I am an open-source enthusiast and developed/contributed to:
 - `zbd-node`: A payment plateform for modern developers. [zbd-node](https://github.com/zebedeeio/zbd-node/pull/7)
 - `zbd-go`: A payment platform for modern developers. [zbd-go](https://github.com/zebedeeio/zbd-go/pull/3)
