@@ -8,6 +8,10 @@ I'm looking for full-time Remote Jobs.
 
 ---
 
+<a href="https://gitroll.io/profile/unBLmZld8RufPGj03zwbqTGAuNAv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unBLmZld8RufPGj03zwbqTGAuNAv1" alt="GitRoll Profile Badge"/></a>
+
+---
+
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, July 20th, 2024, 6:35:12 AM
