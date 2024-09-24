@@ -1,3 +1,27 @@
+<picture>
+  <img alt="Geeky and Cute GitHub Readme" src="data:image/svg+xml;charset=utf-8,
+    <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='400' height='200' viewBox='0 0 400 200'>
+      <style>
+        @keyframes float {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-10px); }
+        }
+        .container { font-family: Arial, sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; background: linear-gradient(to bottom right, #f0f0f0, #e0e0e0); }
+        .title { font-size: 24px; font-weight: bold; margin-bottom: 10px; color: #333; }
+        .emoji { font-size: 48px; animation: float 3s ease-in-out infinite; }
+        .message { font-size: 16px; color: #666; margin-top: 10px; }
+      </style>
+      <foreignObject width='100%' height='100%'>
+        <div xmlns='http://www.w3.org/1999/xhtml' class='container'>
+          <div class='title'>Welcome to David's GitHub!</div>
+          <div class='emoji'>🚀👨‍💻</div>
+          <div class='message'>NodeJs-Golang Backend Developer | Python | Rust | Solidity</div>
+        </div>
+      </foreignObject>
+    </svg>
+  ">
+</picture>
+
 ## Hi, I'm David Onyedikachi Anyatonwu 👋
 
 ### About me:
@@ -69,13 +93,5 @@ I am an open-source enthusiast and developed/contributed to:
 
 You can find me on:
 
-<!-- * [My website: tiangolo.com](https://tiangolo.com/) -->
 * [Twitter as @David_Anyatonwu](https://twitter.com/David_Anyatonwu)
-<!-- * [GitHub as @tiangolo (you are here)](https://github.com/tiangolo) -->
 * [LinkedIn](https://linkedin.com/in/david_anyatonwu-79165988)
-<!-- * [Dev.to](https://dev.to/tiangolo)
-* [Medium](https://tiangolo.medium.com/) -->
-
-
-<!-- ![Metrics](https://metrics.lecoq.io/onyedikachi-david?template=terminal&base.hireable=true&habits=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&config.timezone=Africa%2FLagos)
- -->
