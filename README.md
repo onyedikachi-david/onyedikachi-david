@@ -38,14 +38,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 6th, 2024, 6:50:52 AM
+Last Updated: Sunday, October 6th, 2024, 5:59:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 37 commit(s) to [onyedikachi-david/screenpipe](https://github.com/onyedikachi-david/screenpipe)<br>
-2. ⬆️ Pushed 36 commit(s) to [onyedikachi-david/screenpipe](https://github.com/onyedikachi-david/screenpipe)<br>
-3. 💬 Commented on [#92](https://github.com/CapSoftware/Cap/issues/92#issuecomment-2395028889) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
-4. 💬 Commented on [#92](https://github.com/CapSoftware/Cap/issues/92#issuecomment-2393917237) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
-5. 💬 Commented on [#365](https://github.com/mediar-ai/screenpipe/issues/365#issuecomment-2393797768) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
+1. ❌ Closed PR [#191](https://github.com/spaceandtimelabs/sxt-proof-of-sql/pull/191) in [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql)<br>
+2. ⬆️ Pushed 37 commit(s) to [onyedikachi-david/screenpipe](https://github.com/onyedikachi-david/screenpipe)<br>
+3. ⬆️ Pushed 36 commit(s) to [onyedikachi-david/screenpipe](https://github.com/onyedikachi-david/screenpipe)<br>
+4. 💬 Commented on [#92](https://github.com/CapSoftware/Cap/issues/92#issuecomment-2395028889) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
+5. 💬 Commented on [#92](https://github.com/CapSoftware/Cap/issues/92#issuecomment-2393917237) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
