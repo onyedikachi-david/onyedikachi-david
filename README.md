@@ -38,14 +38,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 5th, 2024, 6:53:08 AM
+Last Updated: Thursday, December 5th, 2024, 6:05:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 213 commit(s) to [onyedikachi-david/screenpipe](https://github.com/onyedikachi-david/screenpipe)<br>
-2. 💬 Commented on [#27](https://github.com/daytonaio/content/pull/27#issuecomment-2514825633) in [daytonaio/content](https://github.com/daytonaio/content)<br>
-3. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/content](https://github.com/onyedikachi-david/content)<br>
-4. ✔️ Closed issue [#1408](https://github.com/daytonaio/daytona/issues/1408) in [daytonaio/daytona](https://github.com/daytonaio/daytona)<br>
-5. 💬 Commented on [#1408](https://github.com/daytonaio/daytona/issues/1408#issuecomment-2514481923) in [daytonaio/daytona](https://github.com/daytonaio/daytona)<br>
+1. ⬆️ Pushed 5 commit(s) to [onyedikachi-david/screenpipe](https://github.com/onyedikachi-david/screenpipe)<br>
+2. 💬 Commented on [#183](https://github.com/CapSoftware/Cap/pull/183#issuecomment-2518955342) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
+3. ⬆️ Pushed 6 commit(s) to [onyedikachi-david/screenpipe](https://github.com/onyedikachi-david/screenpipe)<br>
+4. 💪 Opened PR [#846](https://github.com/mediar-ai/screenpipe/pull/846) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
+5. 💬 Commented on [#713](https://github.com/mediar-ai/screenpipe/issues/713#issuecomment-2518920338) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
