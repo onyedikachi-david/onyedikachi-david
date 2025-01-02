@@ -32,8 +32,7 @@ I'm looking for full-time Remote Jobs.
 
 ---
 
-<a href="https://gitroll.io/profile/unBLmZld8RufPGj03zwbqTGAuNAv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unBLmZld8RufPGj03zwbqTGAuNAv1" alt="GitRoll Profile Badge"/></a>
-
+<a href="https://gitroll.io/profile/unBLmZld8RufPGj03zwbqTGAuNAv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unBLmZld8RufPGj03zwbqTGAuNAv1?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a>
 ---
 
 ## :zap: Recent Activity:
