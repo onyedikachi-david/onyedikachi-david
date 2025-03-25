@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 25th, 2025, 6:51:54 AM
+Last Updated: Tuesday, March 25th, 2025, 6:05:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#35](https://github.com/solana-foundation/kora/pull/35) in [solana-foundation/kora](https://github.com/solana-foundation/kora)<br>
-2. 💬 Commented on [#741](https://github.com/tscircuit/tscircuit.com/pull/741#issuecomment-2748395710) in [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)<br>
-3. ⬆️ Pushed 6 commit(s) to [onyedikachi-david/forge](https://github.com/onyedikachi-david/forge)<br>
-4. ⬆️ Pushed 76 commit(s) to [onyedikachi-david/browser-use](https://github.com/onyedikachi-david/browser-use)<br>
-5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/tscircuit.com](https://github.com/onyedikachi-david/tscircuit.com)<br>
+1. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/tscircuit.com](https://github.com/onyedikachi-david/tscircuit.com)<br>
+2. ⬆️ Pushed 6 commit(s) to [onyedikachi-david/tscircuit.com](https://github.com/onyedikachi-david/tscircuit.com)<br>
+3. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/tscircuit.com](https://github.com/onyedikachi-david/tscircuit.com)<br>
+4. ⭐ Starred [apify/ai-agents-hackathon](https://github.com/apify/ai-agents-hackathon)<br>
+5. ❌ Closed PR [#35](https://github.com/solana-foundation/kora/pull/35) in [solana-foundation/kora](https://github.com/solana-foundation/kora)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
