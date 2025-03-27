@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 27th, 2025, 6:50:53 AM
+Last Updated: Thursday, March 27th, 2025, 6:05:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 32 commit(s) to [onyedikachi-david/runframe](https://github.com/onyedikachi-david/runframe)<br>
-2. ⭐ Starred [naddison36/sol2uml](https://github.com/naddison36/sol2uml)<br>
-3. ⭐ Starred [Ekkanit/sol2uml](https://github.com/Ekkanit/sol2uml)<br>
-4. ⬆️ Pushed 2 commit(s) to [onyedikachi-david/GeoIO.jl](https://github.com/onyedikachi-david/GeoIO.jl)<br>
-5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/GeoIO.jl](https://github.com/onyedikachi-david/GeoIO.jl)<br>
+1. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/cli](https://github.com/onyedikachi-david/cli)<br>
+2. 💪 Opened PR [#137](https://github.com/tscircuit/cli/pull/137) in [tscircuit/cli](https://github.com/tscircuit/cli)<br>
+3. ❌ Closed PR [#741](https://github.com/tscircuit/tscircuit.com/pull/741) in [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)<br>
+4. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/runframe](https://github.com/onyedikachi-david/runframe)<br>
+5. 💪 Opened PR [#388](https://github.com/tscircuit/runframe/pull/388) in [tscircuit/runframe](https://github.com/tscircuit/runframe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
