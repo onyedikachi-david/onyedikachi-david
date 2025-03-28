@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 27th, 2025, 6:05:49 PM
+Last Updated: Friday, March 28th, 2025, 6:51:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/cli](https://github.com/onyedikachi-david/cli)<br>
-2. 💪 Opened PR [#137](https://github.com/tscircuit/cli/pull/137) in [tscircuit/cli](https://github.com/tscircuit/cli)<br>
-3. ❌ Closed PR [#741](https://github.com/tscircuit/tscircuit.com/pull/741) in [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)<br>
-4. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/runframe](https://github.com/onyedikachi-david/runframe)<br>
-5. 💪 Opened PR [#388](https://github.com/tscircuit/runframe/pull/388) in [tscircuit/runframe](https://github.com/tscircuit/runframe)<br>
+1. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core](https://github.com/onyedikachi-david/core)<br>
+2. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core](https://github.com/onyedikachi-david/core)<br>
+3. 💬 Commented on [#368](https://github.com/different-ai/note-companion/pull/368#issuecomment-2758248490) in [different-ai/note-companion](https://github.com/different-ai/note-companion)<br>
+4. 💪 Opened PR [#720](https://github.com/tscircuit/core/pull/720) in [tscircuit/core](https://github.com/tscircuit/core)<br>
+5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/cli](https://github.com/onyedikachi-david/cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
