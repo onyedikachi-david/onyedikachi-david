@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 30th, 2025, 6:02:03 PM
+Last Updated: Monday, March 31st, 2025, 6:55:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#152](https://github.com/JuliaEarth/GeoIO.jl/pull/152#issuecomment-2761892250) in [JuliaEarth/GeoIO.jl](https://github.com/JuliaEarth/GeoIO.jl)<br>
-2. 💪 Opened PR [#2117](https://github.com/BasedHardware/omi/pull/2117) in [BasedHardware/omi](https://github.com/BasedHardware/omi)<br>
-3. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core](https://github.com/onyedikachi-david/core)<br>
+1. ⬆️ Pushed 29 commit(s) to [onyedikachi-david/Cap](https://github.com/onyedikachi-david/Cap)<br>
+2. 💬 Commented on [#152](https://github.com/JuliaEarth/GeoIO.jl/pull/152#issuecomment-2761892250) in [JuliaEarth/GeoIO.jl](https://github.com/JuliaEarth/GeoIO.jl)<br>
+3. 💪 Opened PR [#2117](https://github.com/BasedHardware/omi/pull/2117) in [BasedHardware/omi](https://github.com/BasedHardware/omi)<br>
 4. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core](https://github.com/onyedikachi-david/core)<br>
-5. 💬 Commented on [#368](https://github.com/different-ai/note-companion/pull/368#issuecomment-2758248490) in [different-ai/note-companion](https://github.com/different-ai/note-companion)<br>
+5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core](https://github.com/onyedikachi-david/core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
