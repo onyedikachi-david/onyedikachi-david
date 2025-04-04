@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 3rd, 2025, 6:05:54 PM
+Last Updated: Friday, April 4th, 2025, 6:51:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#364](https://github.com/CapSoftware/Cap/pull/364#issuecomment-2772537945) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
-2. 💬 Commented on [#152](https://github.com/JuliaEarth/GeoIO.jl/pull/152#issuecomment-2772534807) in [JuliaEarth/GeoIO.jl](https://github.com/JuliaEarth/GeoIO.jl)<br>
-3. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/GeoIO.jl](https://github.com/onyedikachi-david/GeoIO.jl)<br>
-4. 💬 Commented on [#720](https://github.com/tscircuit/core/pull/720#issuecomment-2772177888) in [tscircuit/core](https://github.com/tscircuit/core)<br>
-5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core](https://github.com/onyedikachi-david/core)<br>
+1. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/GeoIO.jl](https://github.com/onyedikachi-david/GeoIO.jl)<br>
+2. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/GeoIO.jl](https://github.com/onyedikachi-david/GeoIO.jl)<br>
+3. 💬 Commented on [#364](https://github.com/CapSoftware/Cap/pull/364#issuecomment-2772537945) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
+4. 💬 Commented on [#152](https://github.com/JuliaEarth/GeoIO.jl/pull/152#issuecomment-2772534807) in [JuliaEarth/GeoIO.jl](https://github.com/JuliaEarth/GeoIO.jl)<br>
+5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/GeoIO.jl](https://github.com/onyedikachi-david/GeoIO.jl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
