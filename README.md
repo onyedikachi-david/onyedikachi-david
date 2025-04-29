@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 28th, 2025, 6:09:01 PM
+Last Updated: Tuesday, April 29th, 2025, 6:55:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 50 commit(s) to [onyedikachi-david/omnigres](https://github.com/onyedikachi-david/omnigres)<br>
-2. 💬 Commented on [#5589](https://github.com/hyperlane-xyz/hyperlane-monorepo/issues/5589#issuecomment-2833431792) in [hyperlane-xyz/hyperlane-monorepo](https://github.com/hyperlane-xyz/hyperlane-monorepo)<br>
-3. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-4. ⬆️ Pushed 3 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-5. ⬆️ Pushed 46 commit(s) to [onyedikachi-david/kora](https://github.com/onyedikachi-david/kora)<br>
+1. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
+2. ⬆️ Pushed 4 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
+3. ⭐ Starred [google/A2A](https://github.com/google/A2A)<br>
+4. ⭐ Starred [circlefin/evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts)<br>
+5. 💬 Commented on [#919](https://github.com/calimero-network/core/issues/919#issuecomment-2835335496) in [calimero-network/core](https://github.com/calimero-network/core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
