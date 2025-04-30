@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 29th, 2025, 6:08:50 PM
+Last Updated: Wednesday, April 30th, 2025, 6:55:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-2. ⬆️ Pushed 4 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-3. ⭐ Starred [google/A2A](https://github.com/google/A2A)<br>
-4. ⭐ Starred [circlefin/evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts)<br>
-5. 💬 Commented on [#919](https://github.com/calimero-network/core/issues/919#issuecomment-2835335496) in [calimero-network/core](https://github.com/calimero-network/core)<br>
+1. 💬 Commented on [#1233](https://github.com/calimero-network/core/pull/1233#issuecomment-2839262616) in [calimero-network/core](https://github.com/calimero-network/core)<br>
+2. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
+3. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
+4. ⬆️ Pushed 64 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
+5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
