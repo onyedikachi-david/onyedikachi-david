@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 3rd, 2025, 6:53:35 AM
+Last Updated: Saturday, May 3rd, 2025, 6:03:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#24](https://github.com/traceloop/hub/pull/24#issuecomment-2848188716) in [traceloop/hub](https://github.com/traceloop/hub)<br>
-2. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/hub](https://github.com/onyedikachi-david/hub)<br>
-3. 💬 Commented on [#24](https://github.com/traceloop/hub/pull/24#issuecomment-2848040606) in [traceloop/hub](https://github.com/traceloop/hub)<br>
-4. ⬆️ Pushed 2 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-5. 💬 Commented on [#1233](https://github.com/calimero-network/core/pull/1233#issuecomment-2839262616) in [calimero-network/core](https://github.com/calimero-network/core)<br>
+1. 💬 Commented on [#742](https://github.com/antinomyhq/forge/pull/742#issuecomment-2848541456) in [antinomyhq/forge](https://github.com/antinomyhq/forge)<br>
+2. 💪 Opened PR [#742](https://github.com/antinomyhq/forge/pull/742) in [antinomyhq/forge](https://github.com/antinomyhq/forge)<br>
+3. ⬆️ Pushed 156 commit(s) to [onyedikachi-david/forge](https://github.com/onyedikachi-david/forge)<br>
+4. 💬 Commented on [#24](https://github.com/traceloop/hub/pull/24#issuecomment-2848188716) in [traceloop/hub](https://github.com/traceloop/hub)<br>
+5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/hub](https://github.com/onyedikachi-david/hub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
