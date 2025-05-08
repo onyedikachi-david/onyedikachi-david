@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 7th, 2025, 6:09:13 PM
+Last Updated: Thursday, May 8th, 2025, 6:56:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 40 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
-2. 💪 Opened PR [#7567](https://github.com/activepieces/activepieces/pull/7567) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. 💬 Commented on [#7558](https://github.com/activepieces/activepieces/issues/7558#issuecomment-2854248009) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. ⬆️ Pushed 177 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
-5. ⭐ Starred [houseabsolute/ubi](https://github.com/houseabsolute/ubi)<br>
+1. 💬 Commented on [#7593](https://github.com/activepieces/activepieces/pull/7593#issuecomment-2858500828) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+2. ⬆️ Pushed 19 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
+3. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
+4. 💪 Opened PR [#7593](https://github.com/activepieces/activepieces/pull/7593) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. 💬 Commented on [#7563](https://github.com/activepieces/activepieces/issues/7563#issuecomment-2858001870) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
