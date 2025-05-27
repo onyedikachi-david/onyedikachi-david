@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 27th, 2025, 6:56:43 AM
+Last Updated: Tuesday, May 27th, 2025, 6:09:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#7866](https://github.com/activepieces/activepieces/pull/7866) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-2. 💬 Commented on [#7865](https://github.com/activepieces/activepieces/issues/7865#issuecomment-2910273884) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. ❌ Closed PR [#1279](https://github.com/calimero-network/core/pull/1279) in [calimero-network/core](https://github.com/calimero-network/core)<br>
-4. ⬆️ Pushed 255 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
-5. 💪 Opened PR [#1280](https://github.com/calimero-network/core/pull/1280) in [calimero-network/core](https://github.com/calimero-network/core)<br>
+1. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
+2. ⬆️ Pushed 2 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
+3. 💬 Commented on [#7873](https://github.com/activepieces/activepieces/pull/7873#issuecomment-2911187547) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. 💬 Commented on [#364](https://github.com/CapSoftware/Cap/pull/364#issuecomment-2911179022) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
+5. 💬 Commented on [#1280](https://github.com/calimero-network/core/pull/1280#issuecomment-2911171080) in [calimero-network/core](https://github.com/calimero-network/core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
