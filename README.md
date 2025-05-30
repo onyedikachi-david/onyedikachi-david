@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 29th, 2025, 6:08:00 PM
+Last Updated: Friday, May 30th, 2025, 6:55:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1280](https://github.com/calimero-network/core/pull/1280#discussion_r2112149953) in [calimero-network/core](https://github.com/calimero-network/core)<br>
-2. ⬆️ Pushed 2 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-3. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-4. ⬆️ Pushed 4 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-5. 💬 Commented on [#2283](https://github.com/comet-ml/opik/pull/2283#issuecomment-2912752277) in [comet-ml/opik](https://github.com/comet-ml/opik)<br>
+1. 💬 Commented on [#2283](https://github.com/comet-ml/opik/pull/2283#issuecomment-2919127381) in [comet-ml/opik](https://github.com/comet-ml/opik)<br>
+2. 💬 Commented on [#2278](https://github.com/comet-ml/opik/issues/2278#issuecomment-2919119992) in [comet-ml/opik](https://github.com/comet-ml/opik)<br>
+3. 💬 Commented on [#1280](https://github.com/calimero-network/core/pull/1280#discussion_r2112149953) in [calimero-network/core](https://github.com/calimero-network/core)<br>
+4. ⬆️ Pushed 2 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
+5. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
