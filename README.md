@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 1st, 2025, 7:22:07 AM
+Last Updated: Sunday, June 1st, 2025, 6:05:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 58 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
-2. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)<br>
-3. ⬆️ Pushed 2 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-4. ⬆️ Pushed 1 commit(s) to [onyedikachi-david/core-calimero](https://github.com/onyedikachi-david/core-calimero)<br>
-5. ⭐ Starred [HFQR/xitca-web](https://github.com/HFQR/xitca-web)<br>
+1. 💬 Commented on [#7910](https://github.com/activepieces/activepieces/pull/7910#issuecomment-2925884159) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+2. ⭐ Starred [paradigmxyz/reth](https://github.com/paradigmxyz/reth)<br>
+3. 💪 Opened PR [#7910](https://github.com/activepieces/activepieces/pull/7910) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. 💬 Commented on [#7491](https://github.com/activepieces/activepieces/issues/7491#issuecomment-2925701826) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. ⬆️ Pushed 58 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
