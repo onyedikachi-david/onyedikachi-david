@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 4th, 2025, 6:08:46 PM
+Last Updated: Saturday, July 5th, 2025, 6:57:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8217](https://github.com/activepieces/activepieces/pull/8217#discussion_r2184564919) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-2. 💬 Commented on [#8217](https://github.com/activepieces/activepieces/pull/8217#discussion_r2184562543) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. 🔴 Requested changes in [#8217](https://github.com/activepieces/activepieces/pull/8217#pullrequestreview-2985770752) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. 💬 Commented on [#8217](https://github.com/activepieces/activepieces/pull/8217#discussion_r2184531761) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-5. 💬 Commented on [#8217](https://github.com/activepieces/activepieces/pull/8217#discussion_r2184499649) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+1. 👍 Approved [#8240](https://github.com/activepieces/activepieces/pull/8240#pullrequestreview-2988134967) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+2. 💬 Commented on [#8240](https://github.com/activepieces/activepieces/pull/8240#issuecomment-3037053183) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+3. 💬 Commented on [#8240](https://github.com/activepieces/activepieces/pull/8240#issuecomment-3037041186) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. ⬆️ Pushed 1 commit(s) to [Sanket6652/activepieces](https://github.com/Sanket6652/activepieces)<br>
+5. 👍 Approved [#8256](https://github.com/activepieces/activepieces/pull/8256#pullrequestreview-2986445016) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
