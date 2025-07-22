@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 22nd, 2025, 7:15:11 AM
+Last Updated: Tuesday, July 22nd, 2025, 6:11:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#8294](https://github.com/activepieces/activepieces/pull/8294) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-2. ❌ Closed PR [#8137](https://github.com/activepieces/activepieces/pull/8137) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. ❌ Closed PR [#8136](https://github.com/activepieces/activepieces/pull/8136) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. ❌ Closed PR [#8357](https://github.com/activepieces/activepieces/pull/8357) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-5. 💬 Commented on [#8357](https://github.com/activepieces/activepieces/pull/8357#issuecomment-3096055278) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+1. ❌ Closed PR [#8352](https://github.com/activepieces/activepieces/pull/8352) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+2. ❌ Closed PR [#8294](https://github.com/activepieces/activepieces/pull/8294) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+3. ❌ Closed PR [#8137](https://github.com/activepieces/activepieces/pull/8137) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. ❌ Closed PR [#8136](https://github.com/activepieces/activepieces/pull/8136) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. ❌ Closed PR [#8357](https://github.com/activepieces/activepieces/pull/8357) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
