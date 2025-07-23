@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 23rd, 2025, 7:16:06 AM
+Last Updated: Wednesday, July 23rd, 2025, 6:12:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#8399](https://github.com/activepieces/activepieces/pull/8399) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-2. ⬆️ Pushed 4 commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. ✔️ Closed issue [#8391](https://github.com/activepieces/activepieces/issues/8391) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. 🎉 Merged PR [#8435](https://github.com/activepieces/activepieces/pull/8435) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-5. 👍 Approved [#8435](https://github.com/activepieces/activepieces/pull/8435#pullrequestreview-3042315010) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+1. 💬 Commented on [#1181](https://github.com/antinomyhq/forge/issues/1181#issuecomment-3104177324) in [antinomyhq/forge](https://github.com/antinomyhq/forge)<br>
+2. 💬 Commented on [#1181](https://github.com/antinomyhq/forge/issues/1181#issuecomment-3104171389) in [antinomyhq/forge](https://github.com/antinomyhq/forge)<br>
+3. ❌ Closed PR [#8399](https://github.com/activepieces/activepieces/pull/8399) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. ⬆️ Pushed 4 commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. ✔️ Closed issue [#8391](https://github.com/activepieces/activepieces/issues/8391) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
