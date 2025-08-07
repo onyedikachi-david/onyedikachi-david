@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 7th, 2025, 7:18:38 AM
+Last Updated: Thursday, August 7th, 2025, 6:14:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#292](https://github.com/canonical/craft-store/issues/292#issuecomment-3160863787) in [canonical/craft-store](https://github.com/canonical/craft-store)<br>
-2. ❌ Closed PR [#8615](https://github.com/activepieces/activepieces/pull/8615) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. ⬆️ Pushed 11 commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. ✔️ Closed issue [#8613](https://github.com/activepieces/activepieces/issues/8613) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-5. 🎉 Merged PR [#8616](https://github.com/activepieces/activepieces/pull/8616) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+1. ⬆️ Pushed 6 commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+2. ✔️ Closed issue [#8667](https://github.com/activepieces/activepieces/issues/8667) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+3. 🎉 Merged PR [#8678](https://github.com/activepieces/activepieces/pull/8678) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. 👍 Approved [#8678](https://github.com/activepieces/activepieces/pull/8678#pullrequestreview-3094928648) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. ⬆️ Pushed 570 commit(s) to [fortunamide/activepieces](https://github.com/fortunamide/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
