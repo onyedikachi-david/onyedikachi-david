@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 7th, 2025, 6:14:22 PM
+Last Updated: Friday, August 8th, 2025, 7:18:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-2. ✔️ Closed issue [#8667](https://github.com/activepieces/activepieces/issues/8667) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. 🎉 Merged PR [#8678](https://github.com/activepieces/activepieces/pull/8678) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. 👍 Approved [#8678](https://github.com/activepieces/activepieces/pull/8678#pullrequestreview-3094928648) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-5. ⬆️ Pushed 570 commit(s) to [fortunamide/activepieces](https://github.com/fortunamide/activepieces)<br>
+1. ⭐ Starred [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny)<br>
+2. 💬 Commented on [#8677](https://github.com/activepieces/activepieces/pull/8677#issuecomment-3162362928) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+3. 💬 Commented on [#8677](https://github.com/activepieces/activepieces/pull/8677#issuecomment-3162353953) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. 💬 Commented on [#8661](https://github.com/activepieces/activepieces/pull/8661#discussion_r2258911239) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. 💬 Commented on [#8661](https://github.com/activepieces/activepieces/pull/8661#discussion_r2258883166) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
