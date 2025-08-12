@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 11th, 2025, 6:12:34 PM
+Last Updated: Tuesday, August 12th, 2025, 7:08:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 19 commit(s) to [fortunamide/activepieces](https://github.com/fortunamide/activepieces)<br>
-2. ⬆️ Pushed 785 commit(s) to [fortunamide/activepieces](https://github.com/fortunamide/activepieces)<br>
-3. ⬆️ Pushed 12 commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. ✔️ Closed issue [#8601](https://github.com/activepieces/activepieces/issues/8601) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-5. 🎉 Merged PR [#8677](https://github.com/activepieces/activepieces/pull/8677) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+1. 💬 Commented on [#8592](https://github.com/activepieces/activepieces/pull/8592#issuecomment-3175365280) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+2. ❌ Closed PR [#8668](https://github.com/activepieces/activepieces/pull/8668) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+3. ❌ Closed PR [#8674](https://github.com/activepieces/activepieces/pull/8674) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. ⬆️ Pushed 11 commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. ✔️ Closed issue [#8659](https://github.com/activepieces/activepieces/issues/8659) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
