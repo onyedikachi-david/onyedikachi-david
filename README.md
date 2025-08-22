@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 22nd, 2025, 6:55:12 AM
+Last Updated: Friday, August 22nd, 2025, 6:07:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Ani-4x/activepieces](https://github.com/Ani-4x/activepieces)<br>
-2. ⬆️ Pushed 2405 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
-3. ⬆️ Pushed 1 commit(s) to [Sanket6652/activepieces](https://github.com/Sanket6652/activepieces)<br>
-4. ⭐ Starred [hilory16/african-states-and-tribes](https://github.com/hilory16/african-states-and-tribes)<br>
-5. 💬 Commented on [#8816](https://github.com/activepieces/activepieces/pull/8816#issuecomment-3195254991) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+1. ⬆️ Pushed 99 commit(s) to [onyedikachi-david/activepieces](https://github.com/onyedikachi-david/activepieces)<br>
+2. ❌ Closed PR [#8783](https://github.com/activepieces/activepieces/pull/8783) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+3. ✔️ Closed issue [#8687](https://github.com/activepieces/activepieces/issues/8687) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. ✔️ Closed issue [#8696](https://github.com/activepieces/activepieces/issues/8696) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. 🎉 Merged PR [#8688](https://github.com/activepieces/activepieces/pull/8688) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
