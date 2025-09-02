@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 1st, 2025, 5:38:36 PM
+Last Updated: Tuesday, September 2nd, 2025, 5:50:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1617 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
-2. ❌ Closed PR [#8956](https://github.com/activepieces/activepieces/pull/8956) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. ❌ Closed PR [#8868](https://github.com/activepieces/activepieces/pull/8868) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. ❌ Closed PR [#8885](https://github.com/activepieces/activepieces/pull/8885) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-5. ⬆️ Pushed 10 commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+1. ⬆️ Pushed 1 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
+2. ⬆️ Pushed 1 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
+3. ⬆️ Pushed 1 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
+4. ⬆️ Pushed 1 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
+5. ⬆️ Pushed 1617 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
