@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 2nd, 2025, 5:50:44 AM
+Last Updated: Tuesday, September 2nd, 2025, 5:38:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
-2. ⬆️ Pushed 1 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
-3. ⬆️ Pushed 1 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
-5. ⬆️ Pushed 1617 commit(s) to [Pranith124/activepieces](https://github.com/Pranith124/activepieces)<br>
+1. 💬 Commented on [#1443](https://github.com/calimero-network/core/issues/1443#issuecomment-3243090953) in [calimero-network/core](https://github.com/calimero-network/core)<br>
+2. ❌ Closed PR [#8980](https://github.com/activepieces/activepieces/pull/8980) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+3. ❌ Closed PR [#8977](https://github.com/activepieces/activepieces/pull/8977) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. ❌ Closed PR [#8979](https://github.com/activepieces/activepieces/pull/8979) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. ⬆️ Pushed 1 commit(s) to [sparkybug/activepieces](https://github.com/sparkybug/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
