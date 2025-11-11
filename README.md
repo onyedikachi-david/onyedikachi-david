@@ -37,14 +37,14 @@ I'm looking for full-time Remote Jobs.
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 11th, 2025, 6:57:43 AM
+Last Updated: Tuesday, November 11th, 2025, 6:09:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-2. ✔️ Closed issue [#9849](https://github.com/activepieces/activepieces/issues/9849) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-3. 👍 Approved [#9865](https://github.com/activepieces/activepieces/pull/9865#pullrequestreview-3443726745) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-4. ❌ Closed PR [#9890](undefined) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
-5. ⬆️ Pushed undefined commit(s) to [fortunamide/activepieces](https://github.com/fortunamide/activepieces)<br>
+1. ⬆️ Pushed undefined commit(s) to [owuzo/activepieces](https://github.com/owuzo/activepieces)<br>
+2. ⬆️ Pushed undefined commit(s) to [owuzo/activepieces](https://github.com/owuzo/activepieces)<br>
+3. ❌ Closed PR [#9921](undefined) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+4. ❌ Closed PR [#9920](undefined) in [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
+5. ⬆️ Pushed undefined commit(s) to [activepieces/activepieces](https://github.com/activepieces/activepieces)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
